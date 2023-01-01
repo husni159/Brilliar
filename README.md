@@ -1,2 +1,2 @@
 # Brilliar
-Jwellwery website using angular
+Jwellery website using angular
